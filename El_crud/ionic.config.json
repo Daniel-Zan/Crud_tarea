@@ -1,0 +1,7 @@
+{
+  "name": "El_crud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
